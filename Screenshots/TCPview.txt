@@ -1,0 +1,52 @@
+[System Process]	0	TCP	desktop-srruq6v.localdomain	53931	minint-mlsl11d.ksd.edu	ms-do	TIME_WAIT										
+[System Process]	0	TCP	desktop-srruq6v.localdomain	53925	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-srruq6v.localdomain	53935	13.66.56.243	https	TIME_WAIT										
+lsass.exe	616	TCP	DESKTOP-SRRUQ6V	49669	DESKTOP-SRRUQ6V	0	LISTENING										
+lsass.exe	616	TCPV6	desktop-srruq6v	49669	desktop-srruq6v	0	LISTENING										
+SearchUI.exe	4496	TCP	desktop-srruq6v.localdomain	49728	8.252.96.126	http	ESTABLISHED										
+services.exe	600	TCP	DESKTOP-SRRUQ6V	49668	DESKTOP-SRRUQ6V	0	LISTENING										
+services.exe	600	TCPV6	desktop-srruq6v	49668	desktop-srruq6v	0	LISTENING										
+spoolsv.exe	1788	TCP	DESKTOP-SRRUQ6V	49667	DESKTOP-SRRUQ6V	0	LISTENING										
+spoolsv.exe	1788	TCPV6	desktop-srruq6v	49667	desktop-srruq6v	0	LISTENING										
+svchost.exe	848	TCP	DESKTOP-SRRUQ6V	epmap	DESKTOP-SRRUQ6V	0	LISTENING										
+svchost.exe	1240	TCP	desktop-srruq6v.localdomain	5040	DESKTOP-SRRUQ6V	0	LISTENING										
+svchost.exe	1360	TCP	DESKTOP-SRRUQ6V	49665	DESKTOP-SRRUQ6V	0	LISTENING										
+svchost.exe	968	TCP	DESKTOP-SRRUQ6V	49666	DESKTOP-SRRUQ6V	0	LISTENING										
+svchost.exe	968	TCP	desktop-srruq6v.localdomain	53492	52.165.171.165	https	ESTABLISHED										
+svchost.exe	968	TCP	desktop-srruq6v.localdomain	53534	13.89.187.212	https	ESTABLISHED										
+svchost.exe	1324	TCP	DESKTOP-SRRUQ6V	ms-do	DESKTOP-SRRUQ6V	0	LISTENING										
+svchost.exe	4568	UDP	DESKTOP-SRRUQ6V	ntp	*	*											
+svchost.exe	7636	UDP	DESKTOP-SRRUQ6V	ssdp	*	*											
+svchost.exe	7636	UDP	desktop-srruq6v.localdomain	ssdp	*	*											
+svchost.exe	7636	UDP	DESKTOP-SRRUQ6V	ws-discovery	*	*											
+svchost.exe	7636	UDP	DESKTOP-SRRUQ6V	ws-discovery	*	*											
+svchost.exe	1240	UDP	DESKTOP-SRRUQ6V	5050	*	*											
+svchost.exe	1324	UDP	DESKTOP-SRRUQ6V	5353	*	*											
+svchost.exe	1324	UDP	DESKTOP-SRRUQ6V	llmnr	*	*											
+svchost.exe	7636	UDP	DESKTOP-SRRUQ6V	56685	*	*											
+svchost.exe	7636	UDP	desktop-srruq6v.localdomain	63466	*	*											
+svchost.exe	7636	UDP	DESKTOP-SRRUQ6V	63467	*	*											
+svchost.exe	968	UDP	DESKTOP-SRRUQ6V	64715	*	*											
+svchost.exe	848	TCPV6	desktop-srruq6v	epmap	desktop-srruq6v	0	LISTENING										
+svchost.exe	1324	TCPV6	desktop-srruq6v	ms-do	desktop-srruq6v	0	LISTENING										
+svchost.exe	1360	TCPV6	desktop-srruq6v	49665	desktop-srruq6v	0	LISTENING										
+svchost.exe	968	TCPV6	desktop-srruq6v	49666	desktop-srruq6v	0	LISTENING										
+svchost.exe	4568	UDPV6	desktop-srruq6v	123	*	*											
+svchost.exe	7636	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	7636	UDPV6	[fe80:0:0:0:c54e:fa4c:dbf4:1a49]	1900	*	*											
+svchost.exe	7636	UDPV6	desktop-srruq6v	3702	*	*											
+svchost.exe	7636	UDPV6	desktop-srruq6v	3702	*	*											
+svchost.exe	1324	UDPV6	desktop-srruq6v	5353	*	*											
+svchost.exe	1324	UDPV6	desktop-srruq6v	5355	*	*											
+svchost.exe	7636	UDPV6	desktop-srruq6v	56686	*	*											
+svchost.exe	7636	UDPV6	[fe80:0:0:0:c54e:fa4c:dbf4:1a49]	63464	*	*											
+svchost.exe	7636	UDPV6	[0:0:0:0:0:0:0:1]	63465	*	*											
+System	4	TCP	desktop-srruq6v.localdomain	netbios-ssn	DESKTOP-SRRUQ6V	0	LISTENING										
+System	4	TCP	DESKTOP-SRRUQ6V	microsoft-ds	DESKTOP-SRRUQ6V	0	LISTENING										
+System	4	TCP	DESKTOP-SRRUQ6V	wsd	DESKTOP-SRRUQ6V	0	LISTENING										
+System	4	UDP	desktop-srruq6v.localdomain	netbios-ns	*	*		3	204								
+System	4	UDP	desktop-srruq6v.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-srruq6v	microsoft-ds	desktop-srruq6v	0	LISTENING										
+System	4	TCPV6	desktop-srruq6v	wsd	desktop-srruq6v	0	LISTENING										
+wininit.exe	456	TCP	DESKTOP-SRRUQ6V	49664	DESKTOP-SRRUQ6V	0	LISTENING										
+wininit.exe	456	TCPV6	desktop-srruq6v	49664	desktop-srruq6v	0	LISTENING										
